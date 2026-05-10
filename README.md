@@ -31,4 +31,4 @@ Prediction: phishing
 
 ## Screenshot
 
-![Output](OUTPUT.png)
+![Output](Output.png)
